@@ -12,7 +12,7 @@ Au‑delà du jeu lui‑même, ce programme illustre plusieurs mécanismes fonda
 
 Ce projet peut servir :
 - d’exemple pédagogique pour des cours de systèmes ou de programmation avancée,
-- de base pour des travaux pratiques universitaires,
+- de base pour des travaux pratiques dans l'enseignement,
 - ou simplement de jeu rétro amusant et techniquement élégant.
 
 ---
