@@ -1,4 +1,4 @@
-# PongTrainer 😎 — Jeu Pong TTY avancé en C++ (v3.3.14)
+# PongTrainer 😎 — Jeu Pong TTY avancé en C++
 
 **PongTrainer** est une implémentation moderne et didactique du jeu *Pong* ASCII en mode maître/esclave, écrite en C++17 et conçue pour fonctionner exclusivement dans un **terminal Linux**, utilisant mémoire partagée, synchronisation fine via mutex et un rendu terminal non bloquant basé sur write(). Conçu en hommage aux premières bornes d’arcade, ce petit jeu s’exécute entièrement dans un TTY (y compris un TTY virtuel Linux).
  
@@ -171,6 +171,23 @@ Il constitue une excellente base pour :
 - des projets d’architecture logicielle,
 - des expérimentations graphiques en terminal,
 - 🎉 offrir une pause ludique entre deux compilations à ceux qui vivent littéralement dans leur TTY.
+
+---
+
+## 🎵 Anecdote — *Quand 1267 lignes de C++ deviennent… une chanson ?*
+
+À titre purement anecdotique : en testant une IA génératrice de chansons,  
+je me suis retrouvé à court d’inspiration au moment de fournir des paroles.  
+Dans un réflexe très *pseudo‑ingénieur*, je lui ai donc envoyé…  
+les **1267 lignes** du code source de *PongTrainer*.
+
+Contre toute attente, l’IA a avalé ce C++ déglingué sans broncher  
+et m’a produit une chanson complète à partir de ce matériau improbable.  
+Le résultat n’a aucune prétention artistique, mais pourrait faire sourire  
+ceux qui passent plus de temps dans leur TTY que dans leur salon.
+
+🎧 **Écouter la curiosité “Pong 4 tty”**  
+[![Miniature YouTube](https://img.youtube.com/vi/BCVAzk15ptQ/hqdefault.jpg)](https://youtube.com/shorts/BCVAzk15ptQ)
 
 ---
 
