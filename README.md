@@ -191,6 +191,13 @@ ceux qui passent plus de temps dans leur TTY que dans leur salon.
 
 ---
 
+## 🎥 Vidéo de présentation du projet
+
+Présentation générée automatiquement par **NotebookLM** à partir du code source de *PongTrainer* :
+
+[![Présentation NotebookLM — PongTrainer](https://img.youtube.com/vi/qrOdXR9B__Y/hqdefault.jpg)](https://youtu.be/qrOdXR9B__Y)
+
+
 ## 🧭 Auteur
 
 **Dominique (aka /b4sh 😎)**  
